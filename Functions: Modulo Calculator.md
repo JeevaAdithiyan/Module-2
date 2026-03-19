@@ -13,7 +13,10 @@ To write a Python program that defines a function which accepts two values and r
 ## 🧾 Program
 
 Add code Here
+<img width="1920" height="1080" alt="Screenshot 2026-03-19 082449" src="https://github.com/user-attachments/assets/06bc92b8-a114-4194-8aae-66c960956915" />
 
 ## Output
+<img width="1920" height="1080" alt="Screenshot 2026-03-19 082449" src="https://github.com/user-attachments/assets/04e87e16-290b-4ad1-b572-9d7bbf3cf857" />
 
 ## Result
+Thus the program was successfully executed.and obtained the result
